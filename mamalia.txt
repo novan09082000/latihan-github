@@ -1,0 +1,5 @@
+Binatang yang termasuk mamalia :
+1. Sapi
+2. Kambing
+3. Kucing
+4. Anjing
