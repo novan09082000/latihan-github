@@ -3,3 +3,5 @@ Binatang yang termasuk mamalia :
 2. Kambing
 3. Kucing
 4. Anjing
+5. Kuda
+6. Monyet
